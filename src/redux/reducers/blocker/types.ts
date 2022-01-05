@@ -1,0 +1,4 @@
+const SET_LOADING = 'SET_LOADING';
+const BLOCKER_TYPES = {SET_LOADING};
+
+export default BLOCKER_TYPES;

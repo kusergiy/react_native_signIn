@@ -1,0 +1,14 @@
+{
+  "next": "Nästa",
+  "save": "Spara",
+  "somethingWrong": "Något gick fel",
+  "loginScreen": {
+    "email": "E-post",
+    "password": "Lösenord",
+    "loginWithEmail": "Logga in med e-post och lösenord",
+    "enterParams": "Ange e-postadress och lösenord som gör att du kan logga in på din RockDocs",
+    "enterEmail": "Skriv in din e-postadress...",
+    "enterPassword": "Ange ditt lösenord...",
+    "logIn": "Logga in"
+  }
+}

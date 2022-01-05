@@ -1,0 +1,14 @@
+{
+  "next": "Next",
+  "save": "Save",
+  "somethingWrong": "Something went wrong",
+  "loginScreen": {
+    "email": "Email",
+    "password": "Password",
+    "loginWithEmail": "Login with email and password",
+    "enterParams": "Enter email and password that will allow you to login to your RockDocs",
+    "enterEmail": "Enter your email...",
+    "enterPassword": "Enter your password...",
+    "logIn": "Log In"
+  }
+}
